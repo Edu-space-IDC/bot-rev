@@ -174,8 +174,7 @@ export async function handleMessage(sock, msg, config) {
 
     case "menu":
       const menu = `
-╭━━━[ 🌟 *Menú del Bot* 🌟 ]━━━╮
-┃ 🦶 *#kick* - Expulsar usuario (siempre con #)
+╭━━━[ 🌟 *Menú muzanBot* 🌟 ]━━━╮
 ┃ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ┃ ⚙️ *${config.prefix}prefix* - Cambiar prefijo
 ┃ 🤖 *${config.prefix}bot on/off* - Activar/desactivar bot
