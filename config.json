@@ -1,0 +1,32 @@
+{
+  "prefix": ".",
+  "owner": "573122934530@s.whatsapp.net",
+  "reportChat": "120363422094064416@g.us",
+  "botActive": {
+    "120363402483009276@g.us": true,
+    "120363289441959236@g.us": false,
+    "120363401430368354@g.us": false
+  },
+  "reportActive": {
+    "120363422094064416@g.us": false,
+    "120363407242399030@g.us": true,
+    "120363382291314760@g.us": false
+  },
+  "revActive": {
+    "120363422094064416@g.us": true
+  },
+  "revChat": "120363422094064416@g.us",
+  "levels": {
+    "estafa": "🟠",
+    "spam": "🟡",
+    "insulto": "🟢",
+    "promocion": "⚫",
+    "privado": "🟡",
+    "limite": "⚫",
+    "edad": "⚫",
+    "acoso": "⚫",
+    "priv": "🟡",
+    "presentarse": "⚫",
+    "bot": "⚫"
+  }
+}
